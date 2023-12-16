@@ -1,4 +1,4 @@
-getinfo.c
+
 #include "shell.h"
 
 /**
